@@ -1,0 +1,25 @@
+{
+  "author" : "",
+  "commands" : [
+    {
+      "script" : "index.js",
+      "name" : "JK",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "JK",
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ],
+    "isRoot": true
+  },
+  "identifier" : "com.example.sketch.a852820f-2c68-4b69-965e-0facb7fc13c5",
+  "version" : "1.0",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "JK"
+}
