@@ -1,3 +1,4 @@
 # JK-sketch-plugin
 Sketch Plugin to simply generate design redlines and CSS attributes
-![Image of a gif](https://liangpuhe.github.io/image/plugin.gif)
+![Image of before](https://liangpuhe.github.io/image/before.png)
+![Image of after](https://liangpuhe.github.io/image/after.png)
